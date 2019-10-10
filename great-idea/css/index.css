@@ -142,7 +142,6 @@ p {
 	padding-left: 15px;
 	padding-right: 15px;
 	padding-top: 10px;
-	/* display: flex; */
 	margin-left: 15px;
 	width: 45%;
 	border: 2px solid yellow;
@@ -301,43 +300,17 @@ div.features {
 	border: 2px solid black;
 	/* width: 70%; */
 	margin: 5px;
-	display: flex;
 	height: 80px;
 	width: 500px;
-	/* flex-direction: column; */
 }
 
 div.about {
 	margin: 5px;
 	border: 2px solid blue;
-	display: flex;
 	height: 80px; 
 	width: 500px; 
-	/* flex-wrap: wrap; */
-	/* flex-direction: column; */
 }
 
-.features p {
-	background: blue;
-	display: flex;
-	
-}
-
-.features h2 {
-	background: powderblue;
-	display: flex;
-	overflow-wrap: break-word;
-}
-
-.about p {
-	background: red;
-	align-content: flex-end;
-}
-
-.about h2 {
-	background: yellowgreen;
-	display: flex;
-}
 
 .middle-img {
 	width: 103%;
