@@ -66,14 +66,14 @@ h1, h2, h3, h4, h5 {
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
 
 .container2 {
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	margin: 0 auto;
 	max-width: 66%;
 	/* background: teal; */
 }
 
 .intro-content {
-	border: 2px solid violet;
+	/* border: 2px solid violet; */
 	margin-bottom: 20px;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -81,12 +81,12 @@ h1, h2, h3, h4, h5 {
 
 .second-h1 {
 	font-size: 30px;
-	border: 2px solid violet;
+	/* border: 2px solid violet; */
 	width: 100px;
 }
 
 .first-content, .second-content, .third-content, .fourth-content, .fifth-content, .sixth-content {
-	border: 1px solid maroon;
+	border: 1px solid black;
 	/* display: flex; */
 	width: 45%;
 	margin-bottom: 20px;
@@ -120,7 +120,7 @@ p {
 }
 
 .services-header-img {
-	border: 2px solid violet;
+	/* border: 2px solid violet; */
 	width: 100%;
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -132,7 +132,7 @@ p {
 }
 
 .content-button {
-	border: 2px solid yellow;
+	border: 1px solid black;
 	border-radius: 5px;
 	margin-left: 4px;
 	margin-top: 15px;
@@ -144,7 +144,7 @@ p {
 	padding-top: 10px;
 	margin-left: 15px;
 	width: 45%;
-	border: 2px solid yellow;
+	/* border: 2px solid yellow; */
 }
 
 ul.a {
@@ -165,14 +165,14 @@ ul.a {
 }
 
 .container {
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	margin: 0 auto;
 	max-width: 80%;
 
 }
 
 .main-nav {
-	border: 2px solid blue;
+	/* border: 2px solid blue; */
 	display: flex;
 	justify-content: space-between;
 	width: 900px;
@@ -205,7 +205,7 @@ header {
 
 nav {
 	padding: 5px; 
-	border: 1px solid rgb(90, 54, 7);
+	/* border: 1px solid rgb(90, 54, 7); */
 	display: flex;
 	/* flex-direction: row; */
 	justify-content: space-around;
@@ -214,7 +214,7 @@ nav {
 }
 
 .starterImage {
-	border: 2px solid blueviolet;
+	/* border: 2px solid blueviolet; */
 	/* display: inline-block; */
 	/* position: relative; */
 	/* left: 5%; */
@@ -227,9 +227,10 @@ nav {
 h1 {
 	font-size: 80px;
 	font-weight: bold;
-	border: 1px solid darksalmon;
+	/* border: 1px solid darksalmon; */
   /*   margin-top: 70px;
 	margin-left: 50px; */
+	padding: 3px;
      width: 400px;
 	/* height: 150px; */
 	/* padding: 5px; */
@@ -252,14 +253,14 @@ h1 {
 	display: flex;
 	justify-content: center;
 	align-content: center;
-	border: 2px solid blue;
+	/* border: 2px solid blue; */
 	margin-left: 140px;
 	margin-top: 15px;
 }
 
 .firstSection {
   	display: flex;
-	border: 2px solid purple;
+	/* border: 2px solid purple; */
 	padding: 15px;
 	/* justify-content: space-evenly; */
 	/* position: relative; */
@@ -271,7 +272,7 @@ h1 {
 	
 .secondSection {
 	display: flex;
-	border: 2px solid green;
+	/* border: 2px solid green; */
 	padding: 15px;
 	/* justify-content: space-evenly; */
 	/* position: relative;
@@ -288,7 +289,7 @@ h1 {
 	/* position: relative; 
 	right: 5%; */
 	/* margin-bottom: 15px; */
-	border: 3px solid red; 
+	/* border: 3px solid red;  */
 	/* padding-bottom: 15px;
 	padding-left: 20px;
 	display: inline-block;
@@ -296,17 +297,19 @@ h1 {
 	margin-left: 200px; */
 }
 
+
 div.features {
-	border: 2px solid black;
+	/* border: 2px solid black; */
 	/* width: 70%; */
 	margin: 5px;
 	height: 80px;
 	width: 500px;
 }
 
+
 div.about {
 	margin: 5px;
-	border: 2px solid blue;
+	/* border: 2px solid blue; */
 	height: 80px; 
 	width: 500px; 
 }
@@ -317,7 +320,7 @@ div.about {
 }
 
 .middleImg {
-	border: 2px solid red;
+	/* border: 2px solid red; */
 	/* vertical-align: center;
 	padding-left: 50px;
 	margin-left: 90px; */
@@ -326,19 +329,19 @@ div.about {
 }
 
 .services {
-	border: 2px solid black;
+	/* border: 2px solid black; */
 	margin: 5px;
 }
   
 .product {
 	margin: 5px;
-	border: 2px solid black;
+	/* border: 2px solid black; */
 	
 }
   
 .vision {
 	margin: 5px;
-	border: 2px solid black;
+	/* border: 2px solid black; */
 
 }
 
@@ -353,14 +356,14 @@ footer p {
 	padding-bottom: 40px;
 	margin-top: 2px;
 	width: 100%;
-	border: 1px solid purple;
+	/* border: 1px solid purple; */
 }
 
 .footer {
 	text-align: center;
 	padding-bottom: 10px;
 	margin-top: 40px;
-	border: 1px solid yellow;
+	/* border: 1px solid yellow; */
 }
 
 button {
@@ -372,7 +375,7 @@ button {
 .p2 {
 	padding-bottom: 12px;
 	padding-top: 12px;
-	border: 1px solid goldenrod;
+	/* border: 1px solid goldenrod; */
 }
 
 address {
